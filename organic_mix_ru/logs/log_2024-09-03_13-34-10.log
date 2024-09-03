@@ -1,0 +1,116 @@
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:34:13.683564
+Start name method: select_product_catalog
+
+End time: 2024-09-03 13:34:26.902675
+End name method: select_product_catalog
+URL: https://organic-mix.ru/catalog/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:34:26.902675
+Start name method: select_filter
+
+End time: 2024-09-03 13:34:36.929993
+End name method: select_filter
+URL: https://organic-mix.ru/catalog/udobrenie-dlya-khvoynykh-organik-miks-850-gr/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:34:36.972359
+Start name method: select_button_in_cart2
+
+End time: 2024-09-03 13:34:39.995851
+End name method: select_button_in_cart2
+URL: https://organic-mix.ru/personal/cart/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:34:39.995851
+Start name method: check_cart
+
+End time: 2024-09-03 13:34:43.892177
+End name method: check_cart
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:34:43.892177
+Start name method: check_order2
+
+End time: 2024-09-03 13:34:44.308537
+End name method: check_order2
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:34:49.078804
+Start name method: select_product_by_menu
+
+End time: 2024-09-03 13:34:58.563912
+End name method: select_product_by_menu
+URL: https://organic-mix.ru/catalog/sredstva-zashchity-rasteniy/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:34:58.563912
+Start name method: select_product
+
+End time: 2024-09-03 13:35:01.997191
+End name method: select_product
+URL: https://organic-mix.ru/catalog/yaytsekhrust-universalnyy-15-ml/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:35:01.997191
+Start name method: select_button_in_cart2
+
+End time: 2024-09-03 13:35:05.127344
+End name method: select_button_in_cart2
+URL: https://organic-mix.ru/personal/cart/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:35:05.127344
+Start name method: check_cart
+
+End time: 2024-09-03 13:35:09.841402
+End name method: check_cart
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:35:09.841402
+Start name method: check_order3
+
+End time: 2024-09-03 13:35:11.307321
+End name method: check_order3
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_product_purchase_by_Search.py::test_buy_product_search (call)
+Start time: 2024-09-03 13:35:16.049768
+Start name method: select_button_product
+

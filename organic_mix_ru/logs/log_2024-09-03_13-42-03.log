@@ -1,0 +1,154 @@
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:42:06.451983
+Start name method: select_product_catalog
+
+End time: 2024-09-03 13:42:21.246004
+End name method: select_product_catalog
+URL: https://organic-mix.ru/catalog/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:42:21.253515
+Start name method: select_filter
+
+End time: 2024-09-03 13:42:34.678700
+End name method: select_filter
+URL: https://organic-mix.ru/catalog/udobrenie-dlya-khvoynykh-organik-miks-850-gr/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:42:34.678700
+Start name method: select_button_in_cart2
+
+End time: 2024-09-03 13:42:37.767498
+End name method: select_button_in_cart2
+URL: https://organic-mix.ru/personal/cart/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:42:37.767498
+Start name method: check_cart
+
+End time: 2024-09-03 13:42:44.375873
+End name method: check_cart
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_filter.py::test_buy_product_by_filter (call)
+Start time: 2024-09-03 13:42:44.375873
+Start name method: check_order2
+
+End time: 2024-09-03 13:42:44.716546
+End name method: check_order2
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:42:49.438077
+Start name method: select_product_by_menu
+
+End time: 2024-09-03 13:42:58.450301
+End name method: select_product_by_menu
+URL: https://organic-mix.ru/catalog/sredstva-zashchity-rasteniy/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:42:58.450301
+Start name method: select_product
+
+End time: 2024-09-03 13:43:00.928435
+End name method: select_product
+URL: https://organic-mix.ru/catalog/yaytsekhrust-universalnyy-15-ml/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:43:00.928435
+Start name method: select_button_in_cart2
+
+End time: 2024-09-03 13:43:03.780240
+End name method: select_button_in_cart2
+URL: https://organic-mix.ru/personal/cart/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:43:03.780240
+Start name method: check_cart
+
+End time: 2024-09-03 13:43:07.401747
+End name method: check_cart
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_buy_product_by_top_menu.py::test_buy_product_by_top_menu (call)
+Start time: 2024-09-03 13:43:07.401747
+Start name method: check_order3
+
+End time: 2024-09-03 13:43:07.785816
+End name method: check_order3
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_product_purchase_by_Search.py::test_buy_product_search (call)
+Start time: 2024-09-03 13:43:12.376231
+Start name method: select_button_product
+
+End time: 2024-09-03 13:43:22.462987
+End name method: select_button_product
+URL: https://organic-mix.ru/catalog/udobrenie-dlya-khvoynykh-organik-miks-25-kg/
+
+-----
+
+-----
+Test: test_product_purchase_by_Search.py::test_buy_product_search (call)
+Start time: 2024-09-03 13:43:22.462987
+Start name method: select_button_in_cart
+
+End time: 2024-09-03 13:43:24.696469
+End name method: select_button_in_cart
+URL: https://organic-mix.ru/personal/cart/
+
+-----
+
+-----
+Test: test_product_purchase_by_Search.py::test_buy_product_search (call)
+Start time: 2024-09-03 13:43:24.696469
+Start name method: check_cart
+
+End time: 2024-09-03 13:43:30.527865
+End name method: check_cart
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_product_purchase_by_Search.py::test_buy_product_search (call)
+Start time: 2024-09-03 13:43:30.527865
+Start name method: check_order
+
+End time: 2024-09-03 13:43:30.987563
+End name method: check_order
+URL: https://organic-mix.ru/personal/order/make/
+
+-----
