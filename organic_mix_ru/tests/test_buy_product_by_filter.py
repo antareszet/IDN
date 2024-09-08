@@ -10,7 +10,7 @@ from pages.product_page import Product_page
 from pages.order_make_page import Order_make_page
 
 
-def test_buy_product_by_filter():  # тест покупки товара по фильтру
+def test_buy_product_by_filter():  # поиск товара по заданным фильтрам с последующей покупкой.
     options = webdriver.ChromeOptions()
     options.add_argument("--log-level=3")
     options.add_argument('--headless')
